@@ -1,64 +1,146 @@
-# 🇯🇵 Nippon Core
+<div align="center">
 
-> 🎌 Découvrez l'univers des anime à travers un calendrier interactif et une interface moderne inspirée du gaming.
+# 🎌 NIPPON CORE
 
-## 🌐 Site officiel
+### 日本のアニメ・カレンダー・エクスペリエンス
 
-https://bairorn.github.io/nippon-core/
+Une expérience web moderne inspirée de l'univers des anime et du design gaming.
 
-## ✨ Fonctionnalités
+🌐 **Site officiel :** https://baitorn.github.io/nippon-core/
 
-- 📅 Calendrier interactif
-- 🎮 Interface inspirée des jeux vidéo
-- 📱 Design responsive (mobile et ordinateur)
-- ⚡ Navigation rapide et fluide
-- 🎨 Thème moderne avec ambiance japonaise
+![HTML5](https://img.shields.io/badge/HTML5-100%25-orange)
+![CSS3](https://img.shields.io/badge/CSS3-Modern-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-yellow)
+![Responsive](https://img.shields.io/badge/Responsive-Mobile-success)
 
-## 🛠️ Technologies
+</div>
+
+---
+
+# ✨ À propos
+
+**Nippon Core** est un site web moderne proposant une interface immersive inspirée du Japon et des jeux vidéo.
+
+Le projet met en avant un calendrier interactif, une navigation fluide et une expérience pensée pour les passionnés d'anime.
+
+---
+
+# 🌐 Site en ligne
+
+## 🔗 https://baitorn.github.io/nippon-core/
+
+---
+
+# 🚀 Fonctionnalités
+
+✅ Calendrier interactif
+
+✅ Navigation rapide
+
+✅ Interface moderne
+
+✅ Design inspiré du gaming
+
+✅ Compatible mobile et ordinateur
+
+✅ Sauvegarde des événements
+
+✅ Expérience fluide
+
+---
+
+# 🎮 Technologies
 
 - HTML5
 - CSS3
 - JavaScript
+- LocalStorage
 
-## 📂 Structure du projet
+---
+
+# 📂 Structure du projet
 
 ```
 nippon-core/
+│
 ├── index.html
 ├── style.css
 ├── script.js
 ├── assets/
+│   ├── images/
+│   ├── icons/
+│   └── backgrounds/
+│
 └── README.md
 ```
 
-## 🚀 Installation
+---
 
-1. Clonez le dépôt :
+# 📱 Compatibilité
 
-```bash
-git clone https://github.com/bairorn/nippon-core.git
-```
-
-2. Ouvrez le dossier du projet.
-
-3. Lancez `index.html` dans votre navigateur.
-
-## 🎯 Objectif
-
-Créer une expérience web moderne autour de l'univers anime avec un calendrier interactif, un design immersif et une navigation simple.
-
-## 📱 Compatibilité
-
-- ✅ Android
-- ✅ iPhone
-- ✅ Tablette
-- ✅ Windows
-- ✅ macOS
-
-## 📜 Licence
-
-Projet personnel réalisé à des fins d'apprentissage et de démonstration.
+| Plateforme | Statut |
+|------------|---------|
+| 📱 Android | ✅ |
+| 🍎 iPhone | ✅ |
+| 💻 Windows | ✅ |
+| 🍏 macOS | ✅ |
+| 📟 Tablette | ✅ |
 
 ---
 
-**© 2026 Nippon Core – Inspired by Japanese Culture & Anime 🎌**
+# 🎯 Objectif
+
+Créer une plateforme élégante et rapide permettant de consulter un calendrier interactif dans une ambiance inspirée de la culture japonaise et de l'univers anime.
+
+---
+
+# 🌸 Design
+
+- 🎌 Inspiration japonaise
+- 🎮 Ambiance gaming
+- 🌙 Thème sombre
+- ⚡ Animations fluides
+- 📱 Responsive Design
+
+---
+
+# 🔮 Évolutions prévues
+
+- ⭐ Favoris
+- 🔔 Notifications
+- 🎨 Personnalisation
+- ☁️ Synchronisation des données
+- 📅 Nouveaux outils de calendrier
+
+---
+
+# 👨‍💻 Développement
+
+Projet développé et maintenu par **Baitorn**.
+
+GitHub :
+https://github.com/baitorn
+
+---
+
+# ⭐ Soutenir le projet
+
+Si le projet vous plaît :
+
+🌟 Ajoutez une étoile au dépôt GitHub
+
+🍀 Partagez-le avec vos amis
+
+🚀 Contribuez à son évolution
+
+---
+
+<div align="center">
+
+# 🇯🇵 NIPPON CORE
+
+### Built with ❤️ for anime and Japanese culture enthusiasts.
+
+© 2026 Baitorn — All Rights Reserved.
+
+</div>
