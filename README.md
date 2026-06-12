@@ -1,4 +1,4 @@
-# 🎌 Animefy
+# 🎌 nippon-core
 
 🚀 Animefy est un site web moderne dédié aux anime, aux génériques (openings/endings) et à un calendrier interactif style jeu vidéo.
 
