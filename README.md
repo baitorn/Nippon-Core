@@ -1,49 +1,64 @@
-# 🎌 nippon-core
+# 🇯🇵 Nippon Core
 
-🚀 Animefy est un site web moderne dédié aux anime, aux génériques (openings/endings) et à un calendrier interactif style jeu vidéo.
+> 🎌 Découvrez l'univers des anime à travers un calendrier interactif et une interface moderne inspirée du gaming.
 
-Le site mélange **design gaming + anime + organisation calendrier**, avec une interface simple et rapide.
+## 🌐 Site officiel
+
+https://bairorn.github.io/nippon-core/
+
+## ✨ Fonctionnalités
+
+- 📅 Calendrier interactif
+- 🎮 Interface inspirée des jeux vidéo
+- 📱 Design responsive (mobile et ordinateur)
+- ⚡ Navigation rapide et fluide
+- 🎨 Thème moderne avec ambiance japonaise
+
+## 🛠️ Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+
+## 📂 Structure du projet
+
+```
+nippon-core/
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+└── README.md
+```
+
+## 🚀 Installation
+
+1. Clonez le dépôt :
+
+```bash
+git clone https://github.com/bairorn/nippon-core.git
+```
+
+2. Ouvrez le dossier du projet.
+
+3. Lancez `index.html` dans votre navigateur.
+
+## 🎯 Objectif
+
+Créer une expérience web moderne autour de l'univers anime avec un calendrier interactif, un design immersif et une navigation simple.
+
+## 📱 Compatibilité
+
+- ✅ Android
+- ✅ iPhone
+- ✅ Tablette
+- ✅ Windows
+- ✅ macOS
+
+## 📜 Licence
+
+Projet personnel réalisé à des fins d'apprentissage et de démonstration.
 
 ---
 
-## 🌐 🔗 Site en ligne
-
-👉 https://animefy.vercel.app  
-*(remplace ce lien par ton vrai lien si besoin)*
-
----
-
-## 📸 Aperçu du projet
-
-🎮 Design style jeu vidéo  
-📅 Calendrier interactif automatique  
-🖱️ Ajout / modification / suppression d’événements  
-💾 Sauvegarde automatique (localStorage)  
-🔥 Génériques d’anime populaires  
-📱 Compatible mobile  
-
----
-
-## ⚙️ Fonctionnalités
-
-- 📅 Calendrier automatique (jours réels)
-- 🖱️ Clique sur un jour pour ajouter un événement
-- ✏️ Modifier un événement existant
-- 🗑 Supprimer un événement
-- 💾 Sauvegarde automatique dans le navigateur
-- 🔍 Recherche d’anime et génériques
-- 🎮 Interface style gaming / anime
-- 🎨 Design moderne et responsive
-
----
-
-## 🧑‍💻 Technologies utilisées
-
-- HTML5  
-- CSS3  
-- JavaScript (Vanilla JS)  
-- localStorage API  
-
----
-
-## 📁 Structure du projet# Nippon-Core
+**© 2026 Nippon Core – Inspired by Japanese Culture & Anime 🎌**
