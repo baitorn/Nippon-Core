@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Animefy Calendar Pro</title>
+
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+  <div class="logo">🎮 Animefy Calendar Pro</div>
+</header>
+
+<section class="hero">
+  <h1>📅 Calendrier interactif</h1>
+  <p>Clique sur un jour pour ajouter un événement</p>
+</section>
+
+<!-- CONTRÔLES MOIS -->
+<section class="controls">
+  <button onclick="changeMonth(-1)">⬅</button>
+  <h2 id="monthTitle"></h2>
+  <button onclick="changeMonth(1)">➡</button>
+</section>
+
+<!-- CALENDRIER -->
+<section id="calendar" class="calendar"></section>
+
+<!-- 🔥 POPUP EVENT -->
+<div id="popup" class="popup">
+
+  <div class="popup-box">
+
+    <h3>📌 Événement</h3>
+
+    <input type="text" id="eventText" placeholder="Écris ton événement...">
+
+    <button onclick="saveEvent()">✔ Valider</button>
+    <button onclick="deleteEvent()">🗑 Supprimer</button>
+    <button onclick="closePopup()">❌ Fermer</button>
+
+  </div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
